@@ -27,14 +27,6 @@
 
 ---
 
-## 🎯 Currently Seeking
-
-- 🤖 ML Internships  
-- 📈 Data Science Roles  
-- 🔬 Research Collaborations  
-
----
-
 <div align="center">
 
 **📫 Let's build something that matters.**
