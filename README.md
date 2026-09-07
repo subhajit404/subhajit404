@@ -19,7 +19,10 @@
 
 ## 💻 Tech Stack
 
-<img align="left" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="animation: spin 3s linear infinite;">
+<style>
+@keyframes spin { 100% { transform: rotate(360deg); } }
+</style>
 
 - Python · Pandas · NumPy  
 - 🤖 Scikit-learn · TensorFlow / PyTorch  
