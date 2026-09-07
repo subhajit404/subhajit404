@@ -19,7 +19,8 @@
 
 ## 💻 Tech Stack
 
-<img align="left" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
 - Python · Pandas · NumPy  
 - 🤖 Scikit-learn · TensorFlow / PyTorch  
 - 📊 Data Viz: Matplotlib, Seaborn  
