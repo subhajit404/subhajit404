@@ -13,7 +13,7 @@
 
 - 🧠 4th-year **AI & ML** undergraduate  
 - 🛠️ Hands-on experience: classification/regression models, data pipelines & deployment  
-- 💼 **AI Intern** @ **CodeClause**  
+
 
 ---
 
