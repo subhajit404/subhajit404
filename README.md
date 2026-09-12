@@ -1,3 +1,18 @@
+<!-- Swap the bracketed placeholders below for your own info. -->
+
+<img src="./banner.png" alt="Profile banner" width="100%" />
+
+<br />
+
+### Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-username)
+
+
+
+
 # 👋 Subhajit Patra
 
 
